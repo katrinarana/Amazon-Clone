@@ -1,4 +1,5 @@
 # Amazon-Clone
+https://katrinarana.github.io/Amazon-Clone/
 
 This is my first project as a beginner where I attempted to create a simple clone of Amazon's website using only HTML and CSS. The goal was to practice basic web development skills, including layout, styling, and responsiveness.
 
